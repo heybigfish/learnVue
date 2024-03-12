@@ -1,0 +1,3 @@
+{
+  "presets": ["@babel/preset-env"] // babel 预设
+}
