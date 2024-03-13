@@ -1,0 +1,15 @@
+{
+  "name": "learnvue",
+  "version": "1.0.0",
+  "description": "Vue.js源码分析，记录了个人学习Vue.js源码的过程中的一些心得以及收获。以及对于Vue框架，周边库的一些个人见解。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
